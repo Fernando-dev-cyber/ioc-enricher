@@ -1,0 +1,16 @@
+# Archivo de credenciales y variables de entorno (NUNCA subir a GitHub)
+.env
+
+# Entorno virtual de Python
+venv/
+env/
+ENV/
+
+# Archivos de caché compilados por Python
+__pycache__/
+*.pyc
+
+# Archivos de salida de reportes generados por las pruebas 
+*.csv
+*.json
+
